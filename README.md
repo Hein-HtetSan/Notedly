@@ -22,34 +22,41 @@ $ git clone https://github.com/Hein-HtetSan/mobile.git
 ## Usage
 ### 1. You have to run api first for local development
 
-1. Setup
 ```shell
 $ cd api
-$ npm run dev
+$ npm install
 ```
+For more information : [Notedly - API](https://github.com/Hein-HtetSan/api).
 
 ### 2. For web
 
+```shell
+$ cd web
+$ npm install
+```
+For more information : [Notedly - Web](https://github.com/Hein-HtetSan/web).
 
 ### 3. For desktop
 
+```shell
+$ cd desktop
+$ npm install
+```
+For more information : [Notedly - Desktop](https://github.com/Hein-HtetSan/desktop).
+
 
 ### 4. For mobile
-- Visit ___expo.io___ and create an Expo account.
-- Install the Expo command-line tools by typing __npm install expo-cli --global__ into your terminal application `npm install expo-cli --global`
+- Visit ___expo.io___ and `create an Expo account`.
+- Install the Expo command-line tools by typing __npm install expo-cli --global__ into your terminal application `$ npm install expo-cli --global`
 - Sign in to your Expo account locally by typing __expo login__ in your terminal application `$ expo login`
-- Install the Expo Client application for your mobile device. Links to the Expo Client iOS and Android app can be found at __expo.io/tools__.
+- `Install the Expo Client application` for your mobile device. Links to the Expo Client iOS and Android app can be found at __expo.io/tools__.
 - Sign in to your account in the Expo Client application.
 
-1. Setup
 ```shell
 $ cd mobile
 $ npm install
 ```
+For more information : [Notedly - Mobile](https://github.com/Hein-HtetSan/mobile).
 
-2. To start the application, in your terminal application, type following
-```shell
-$ npm start
-```
 
 
