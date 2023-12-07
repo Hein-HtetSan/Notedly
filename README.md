@@ -3,10 +3,6 @@
 
 This project is from jseverywhere books. If you are looking for the books -> Download [JavaScript Everywhere](https://www.jseverywhere.io/).
 
-### [Notedly - API](https://github.com/Hein-HtetSan/api)
-### [Notedly - Web](https://github.com/Hein-HtetSan/web)
-### [Notedly - Desktop](https://github.com/Hein-HtetSan/desktop)
-### [Notedly - Mobile](https://github.com/Hein-HtetSan/mobile)
 
 ## Getting Started
 ---
